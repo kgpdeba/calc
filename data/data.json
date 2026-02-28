@@ -1,0 +1,342 @@
+{
+  "doctors": [
+    {
+      "id": "doc001",
+      "name": "Dr. Ayesha Sharma",
+      "img": "d2.jpg",
+      "specialization": "Cardiologist"
+    },
+    {
+      "id": "doc002",
+      "name": "Dr. Arimdam Bose",
+      "img": "d1.jpg",
+      "specialization": "Medicine"
+    }
+  ],
+  "patients": [
+    {
+      "id": "apt1001",
+      "patientName": "Priya Mehta",
+      "doctorId": "doc001",
+      "appointmentDate": "2025-06-10",
+      "appointmentTime": "10:00"
+    },
+    {
+      "id": "apt1002",
+      "patientName": "Rakesh Jha",
+      "doctorId": "doc002",
+      "appointmentDate": "2025-07-12",
+      "appointmentTime": "11:00"
+    },
+    {
+      "id": "9278",
+      "date": "Jun 06 2025",
+      "time": "12:00",
+      "docId": "doc002",
+      "firstName": "DEBASISH",
+      "lastName": "ADHIKARY",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "6923",
+      "date": "Jun 14 2025",
+      "time": "16:00",
+      "docId": "doc001",
+      "firstName": "DEBASISH12",
+      "lastName": "ADHIKARY",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "c6a0",
+      "date": "Jun 20 2025",
+      "time": "12:00",
+      "docId": "doc001",
+      "firstName": "DEBASISH",
+      "lastName": "ADHIKARY",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "1708",
+      "date": "Jun 14 2025",
+      "time": "19:07",
+      "docId": "doc002",
+      "firstName": "aaaaa",
+      "lastName": "aaaaaae",
+      "email": "debddda.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "dabe",
+      "date": "Jun 12 2025",
+      "time": "14:00",
+      "docId": "doc001",
+      "firstName": "Karmikh",
+      "lastName": "Sholanki1",
+      "email": "abbbb@gmail.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "a091",
+      "date": "Jun 11 2025",
+      "time": "14:00",
+      "docId": "doc002",
+      "firstName": "DEBASISH",
+      "lastName": "ADHIKARY",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "7f87",
+      "date": "Jun 06 2025",
+      "time": "15:00",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "ae0e",
+      "date": "Jun 12 2025",
+      "time": "16:07",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "811f",
+      "date": "Jun 06 2025",
+      "time": "16:07",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "811d",
+      "date": "Jun 21 2025",
+      "time": "16:00",
+      "docId": "doc002",
+      "firstName": "Kunal",
+      "lastName": "Sarkar",
+      "email": "kunal@g",
+      "phone": "9898989898"
+    },
+    {
+      "id": "c45c",
+      "date": "Jun 10 2025",
+      "time": "14:00",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "2aed",
+      "date": "Jun 09 2025",
+      "time": "15:00",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "18d2",
+      "date": "Jun 09 2025",
+      "time": "16:00",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "0306",
+      "date": "Jun 09 2025",
+      "time": "19:30",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "b956",
+      "date": "Jun 10 2025",
+      "time": "01:30",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "664e",
+      "date": "Jun 09 2025",
+      "time": "12:00",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "d9c9",
+      "date": "Jun 09 2025",
+      "time": "19:00",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "49bc",
+      "date": "Jun 09 2025",
+      "time": "19:15",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "07b4",
+      "date": "Jun 09 2025",
+      "time": "19:45",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "ab54",
+      "date": "Jun 09 2025",
+      "time": "20:15",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "2787",
+      "date": "Jun 09 2025",
+      "time": "19:15",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "1b69",
+      "date": "Jun 09 2025",
+      "time": "19:45",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "fe3f",
+      "date": "Jun 10 2025",
+      "time": "17:15",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "12de",
+      "date": "Jun 09 2025",
+      "time": "16:00",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "7ec0",
+      "date": "Jun 09 2025",
+      "time": "10:00",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "d2c0",
+      "date": "Jun 09 2025",
+      "time": "17:25",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "9d3f",
+      "date": "Jun 09 2025",
+      "time": "17:01",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "7a0b",
+      "date": "Jun 09 2025",
+      "time": "17:16",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "3535",
+      "date": "Jun 09 2025",
+      "time": "18:30",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "d597",
+      "date": "Jun 09 2025",
+      "time": "17:45",
+      "docId": "doc002",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    },
+    {
+      "id": "c6eb",
+      "date": "Jun 09 2025",
+      "time": "23:30",
+      "docId": "doc001",
+      "firstName": "Debasish",
+      "lastName": "Adhikary",
+      "email": "deba.aot@gmail.com",
+      "phone": "9832023344"
+    }
+  ]
+}
